@@ -14,4 +14,4 @@ A CSV file was uploaded into Azure Databricks. PySpark was then used for all of 
 Processed dataframe from Databricks
 
 ![Postman Screenshot](https://user-images.githubusercontent.com/65408615/100010546-69eaa480-2d9e-11eb-9503-5a4c76862d86.png)
-Postman hitting the URL to return Kyrie Irving's player_id
+Postman hitting the URL created by the Azure Function App to return Kyrie Irving's player_id
